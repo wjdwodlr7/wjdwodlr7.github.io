@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 This is my CV!
-### [[CV]](https://github.com/wjdwodlr7/wjdwodlr7.github.io/blob/master/Jaeik_cv.pdf)
+[[CV]](https://github.com/wjdwodlr7/wjdwodlr7.github.io/blob/master/Jaeik_cv.pdf)
