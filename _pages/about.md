@@ -10,3 +10,4 @@ redirect_from:
 
 I am M.S-Ph.D Integrated student in EECS at GIST.
 
+My CV is available on the CV tap.
