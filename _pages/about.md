@@ -10,4 +10,4 @@ redirect_from:
 
 I am M.S-Ph.D Integrated student in EECS at GIST.
 
-My CV is available here ### [[CV]](https://github.com/wjdwodlr7/wjdwodlr7.github.io/blob/master/Jaeik_cv.pdf)
+My CV is available here [[CV]](https://github.com/wjdwodlr7/wjdwodlr7.github.io/blob/master/Jaeik_cv.pdf)
