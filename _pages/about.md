@@ -10,4 +10,6 @@ redirect_from:
 
 I am M.S-Ph.D Integrated student in EECS at GIST.
 
+I am interested in 6G wireless communication with Reconfigurable intelligent surface(RIS).
+
 My CV is available on the CV tap!
