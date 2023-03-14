@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-This is my CV! [[CV]](https://github.com/wjdwodlr7/wjdwodlr7.github.io/blob/master/files/Jaeik_cv.pdf)
+This is my CV! [[CV]](https://drive.google.com/file/d/1LjEhlJogAAGoncqlETEfkC9u2obQqe7q/view?usp=sharing)
 
